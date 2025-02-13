@@ -252,7 +252,7 @@
         <mxCell id="w0FIRJIPDazaeudEbKl2-3" value="Media&amp;nbsp;User" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;dashed=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-69.5" y="249" width="65" height="68.31" as="geometry" />
         </mxCell>
-        <mxCell id="w0FIRJIPDazaeudEbKl2-4" value="Computer" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.computer;pointerEvents=1;dashed=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="w0FIRJIPDazaeudEbKl2-4" value="PC / Mac" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.computer;pointerEvents=1;dashed=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-175.5" y="249" width="75.9" height="68.31" as="geometry" />
         </mxCell>
       </root>
