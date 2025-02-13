@@ -238,7 +238,7 @@
           <mxGeometry x="990" y="440" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="-2fhyvqvqM_CWiIEeE9e-8" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server_storage;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="590" width="105" height="105" as="geometry" />
+          <mxGeometry x="990" y="610" width="105" height="105" as="geometry" />
         </mxCell>
         <mxCell id="-2fhyvqvqM_CWiIEeE9e-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Un2Qe5mzFSPf5iVPuD7l-1" target="-2fhyvqvqM_CWiIEeE9e-7">
           <mxGeometry relative="1" as="geometry" />
