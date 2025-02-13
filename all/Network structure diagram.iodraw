@@ -216,7 +216,7 @@
         <mxCell id="z9dLDMQUWV3vcMWy4RcC-1" value="Gateway" style="shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.cloud.application_gateway;fillColor=#0090FF;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="850" y="249" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="X98AOsk-hma0PaAQMf3n-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ok83aOpxO1BVnA7I-V8w-1" target="Un2Qe5mzFSPf5iVPuD7l-1">
+        <mxCell id="X98AOsk-hma0PaAQMf3n-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="Ok83aOpxO1BVnA7I-V8w-1" target="Un2Qe5mzFSPf5iVPuD7l-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ok83aOpxO1BVnA7I-V8w-1" value="Manager d&#39;API" style="shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.cloud.api_management;fillColor=#00BEF2;pointerEvents=1;aspect=fixed;" vertex="1" parent="1">
@@ -243,7 +243,7 @@
         <mxCell id="-2fhyvqvqM_CWiIEeE9e-8" value="Serveur de données" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server_storage;" vertex="1" parent="1">
           <mxGeometry x="790" y="437.5" width="105" height="105" as="geometry" />
         </mxCell>
-        <mxCell id="-2fhyvqvqM_CWiIEeE9e-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Un2Qe5mzFSPf5iVPuD7l-1" target="-2fhyvqvqM_CWiIEeE9e-7">
+        <mxCell id="-2fhyvqvqM_CWiIEeE9e-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="Un2Qe5mzFSPf5iVPuD7l-1" target="-2fhyvqvqM_CWiIEeE9e-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="w0FIRJIPDazaeudEbKl2-1" value="" style="group" vertex="1" connectable="0" parent="1">
