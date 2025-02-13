@@ -193,7 +193,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="FHUWCvOukImzGUcmIMb1-1" value="Domaine AWS&amp;nbsp;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Télé-Ville&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=2;dashed=1;strokeWidth=2;strokeColor=#999999;fillColor=#EDF5FF;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="270" y="150" width="460" height="539" as="geometry" />
+          <mxGeometry x="270" y="150" width="448" height="539" as="geometry" />
         </mxCell>
         <mxCell id="pxsNIDdB-xlCKbC2BpG2-11" value="" style="group;fontColor=#000000;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="431.46" y="183.5" width="150" height="254" as="geometry" />
@@ -332,7 +332,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vLy7jMcC4FlOOIQzKMkv-13" value="Service&amp;nbsp;&lt;div&gt;de&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;transfer&lt;/span&gt;&lt;/div&gt;&lt;div&gt;ERP&lt;/div&gt;" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=top;verticalAlign=bottom;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=c_m;labelPosition=center;align=center;" vertex="1" parent="1">
-          <mxGeometry x="620" y="277" width="67.71" height="65" as="geometry" />
+          <mxGeometry x="620" y="442" width="67.71" height="65" as="geometry" />
         </mxCell>
         <mxCell id="dYz3_SyqwcF_yKmrMxZt-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="dYz3_SyqwcF_yKmrMxZt-1" target="kWsZ0_Ic3WUCXaGQPHfh-1">
           <mxGeometry relative="1" as="geometry" />
