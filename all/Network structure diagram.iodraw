@@ -214,7 +214,7 @@
           <mxGeometry x="120" y="30.439999999999998" width="65" height="57.12" as="geometry" />
         </mxCell>
         <mxCell id="z9dLDMQUWV3vcMWy4RcC-1" value="Gateway" style="shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.cloud.application_gateway;fillColor=#0090FF;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="249" width="60" height="60" as="geometry" />
+          <mxGeometry x="790" y="249" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="X98AOsk-hma0PaAQMf3n-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ok83aOpxO1BVnA7I-V8w-1" target="Un2Qe5mzFSPf5iVPuD7l-1">
           <mxGeometry relative="1" as="geometry" />
@@ -229,7 +229,7 @@
           <mxGeometry x="480" y="320" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="-2fhyvqvqM_CWiIEeE9e-2" value="" style="sketch=0;outlineConnect=0;fontColor=#ffffff;fillColor=#1ba1e2;strokeColor=#006EAF;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.rds_oracle_instance;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="450" width="78" height="78" as="geometry" />
+          <mxGeometry x="1020" y="520" width="78" height="78" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
