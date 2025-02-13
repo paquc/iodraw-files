@@ -202,7 +202,10 @@
           <mxGeometry x="1020" y="110" width="89.24" height="55" as="geometry" />
         </mxCell>
         <mxCell id="Un2Qe5mzFSPf5iVPuD7l-1" value="Service Pool" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#999999;strokeWidth=2;fillColor=none;arcSize=5;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="665" y="592" width="204" height="118" as="geometry" />
+          <mxGeometry x="810" y="440" width="204" height="118" as="geometry" />
+        </mxCell>
+        <mxCell id="r3oZrauEnMC0hQL47zaA-1" value="API&amp;nbsp;Service" style="html=1;aspect=fixed;strokeColor=none;shadow=0;align=center;verticalAlign=top;fillColor=#00BEF2;shape=mxgraph.gcp2.cloud_computer;dashed=1;labelPosition=center;verticalLabelPosition=bottom;" vertex="1" parent="1">
+          <mxGeometry x="687" y="625" width="65" height="57.12" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
