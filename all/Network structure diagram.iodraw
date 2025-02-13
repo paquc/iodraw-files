@@ -304,7 +304,7 @@
         <mxCell id="vLy7jMcC4FlOOIQzKMkv-3" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#999999;strokeWidth=2;fillColor=#EDF5FF;arcSize=5;align=left;verticalAlign=top;" vertex="1" parent="vLy7jMcC4FlOOIQzKMkv-2">
           <mxGeometry width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="vLy7jMcC4FlOOIQzKMkv-4" value="Usager" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;dashed=1;aspect=fixed;" vertex="1" parent="vLy7jMcC4FlOOIQzKMkv-2">
+        <mxCell id="vLy7jMcC4FlOOIQzKMkv-4" value="Administrateur" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;dashed=1;aspect=fixed;" vertex="1" parent="vLy7jMcC4FlOOIQzKMkv-2">
           <mxGeometry x="23.47826086956522" y="11.318644067796635" width="48.32608695652174" height="50.787" as="geometry" />
         </mxCell>
         <mxCell id="vLy7jMcC4FlOOIQzKMkv-5" value="PC / Mac" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.computer;pointerEvents=1;dashed=1;aspect=fixed;" vertex="1" parent="vLy7jMcC4FlOOIQzKMkv-2">
