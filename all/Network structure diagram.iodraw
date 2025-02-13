@@ -245,12 +245,7 @@
           <mxGeometry x="317.5" y="509" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-2fhyvqvqM_CWiIEeE9e-3" value="Firewall" style="fontColor=#000000;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.firewall;" vertex="1" parent="1">
-          <mxGeometry x="826" y="254.09" width="50" height="48.5" as="geometry" />
-        </mxCell>
-        <mxCell id="-2fhyvqvqM_CWiIEeE9e-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="-2fhyvqvqM_CWiIEeE9e-3" target="kWsZ0_Ic3WUCXaGQPHfh-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="850" y="279" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="795" y="254.09" width="50" height="48.5" as="geometry" />
         </mxCell>
         <mxCell id="-2fhyvqvqM_CWiIEeE9e-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="-2fhyvqvqM_CWiIEeE9e-7" target="-2fhyvqvqM_CWiIEeE9e-8">
           <mxGeometry relative="1" as="geometry" />
@@ -335,6 +330,9 @@
         </mxCell>
         <mxCell id="vLy7jMcC4FlOOIQzKMkv-13" value="Service&amp;nbsp;&lt;div&gt;de&amp;nbsp;&lt;/div&gt;&lt;div&gt;transfer&lt;/div&gt;" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=c_m" vertex="1" parent="1">
           <mxGeometry x="601.99" y="281" width="67.71" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="dYz3_SyqwcF_yKmrMxZt-1" value="Application&lt;br&gt;Gateway" style="shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.cloud.application_gateway;fillColor=#0090FF;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="737" y="336" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
