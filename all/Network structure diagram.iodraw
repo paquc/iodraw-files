@@ -193,7 +193,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="FHUWCvOukImzGUcmIMb1-1" value="Domaine AWS&amp;nbsp;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Télé-Ville&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=2;dashed=1;strokeWidth=2;strokeColor=#999999;fillColor=#EDF5FF;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="270" y="150" width="460" height="539" as="geometry" />
+          <mxGeometry x="270" y="150" width="460" height="103" as="geometry" />
         </mxCell>
         <mxCell id="pxsNIDdB-xlCKbC2BpG2-11" value="" style="group;fontColor=#000000;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="431.46" y="183.5" width="150" height="254" as="geometry" />
