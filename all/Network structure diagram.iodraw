@@ -271,7 +271,7 @@
         <mxCell id="t9dOQbyYfw-kjqfg6Aln-5" value="PC / Mac" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.computer;pointerEvents=1;dashed=1;aspect=fixed;" vertex="1" parent="t9dOQbyYfw-kjqfg6Aln-2">
           <mxGeometry x="101.73913043478261" y="10.81525423728814" width="56.43000000000001" height="50.787" as="geometry" />
         </mxCell>
-        <mxCell id="kWsZ0_Ic3WUCXaGQPHfh-1" value="API Load Balancer" style="sketch=0;outlineConnect=0;fontColor=#ffffff;fillColor=#1ba1e2;strokeColor=#006EAF;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.network_load_balancer;" vertex="1" parent="1">
+        <mxCell id="kWsZ0_Ic3WUCXaGQPHfh-1" value="API Load Balancer" style="sketch=0;outlineConnect=0;fontColor=#000000;fillColor=#1ba1e2;strokeColor=#006EAF;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.network_load_balancer;" vertex="1" parent="1">
           <mxGeometry x="960" y="250.5" width="57.5" height="57.5" as="geometry" />
         </mxCell>
       </root>
