@@ -231,6 +231,9 @@
         <mxCell id="-2fhyvqvqM_CWiIEeE9e-2" value="" style="sketch=0;outlineConnect=0;fontColor=#ffffff;fillColor=#1ba1e2;strokeColor=#006EAF;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.rds_oracle_instance;" vertex="1" parent="1">
           <mxGeometry x="1020" y="520" width="78" height="78" as="geometry" />
         </mxCell>
+        <mxCell id="-2fhyvqvqM_CWiIEeE9e-3" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.firewall;" vertex="1" parent="1">
+          <mxGeometry x="780" y="391.5" width="50" height="48.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
