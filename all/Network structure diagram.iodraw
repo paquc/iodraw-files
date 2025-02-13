@@ -284,10 +284,10 @@
           <mxGeometry x="470" y="320" width="72.92" height="70" as="geometry" />
         </mxCell>
         <mxCell id="pxsNIDdB-xlCKbC2BpG2-11" value="" style="group;fontColor=#000000;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="404.46" y="186" width="204" height="118" as="geometry" />
+          <mxGeometry x="430" y="186" width="170" height="254" as="geometry" />
         </mxCell>
         <mxCell id="pxsNIDdB-xlCKbC2BpG2-12" value="Pool de services" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#999999;strokeWidth=2;fillColor=none;arcSize=5;align=left;verticalAlign=top;" vertex="1" parent="pxsNIDdB-xlCKbC2BpG2-11">
-          <mxGeometry width="204" height="118" as="geometry" />
+          <mxGeometry width="170" height="254" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
