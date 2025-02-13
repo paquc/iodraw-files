@@ -316,6 +316,9 @@
             <mxPoint x="317.82386591283466" y="524.0000000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="vLy7jMcC4FlOOIQzKMkv-9" value="Serveur de données" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server_storage;" vertex="1" parent="1">
+          <mxGeometry x="855" y="447.5" width="105" height="105" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
