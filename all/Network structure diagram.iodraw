@@ -207,7 +207,7 @@
         <mxCell id="Un2Qe5mzFSPf5iVPuD7l-1" value="Pool de services" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#999999;strokeWidth=2;fillColor=none;arcSize=5;align=left;verticalAlign=top;" vertex="1" parent="r3oZrauEnMC0hQL47zaA-4">
           <mxGeometry width="204" height="118" as="geometry" />
         </mxCell>
-        <mxCell id="kWsZ0_Ic3WUCXaGQPHfh-3" value="Service APIAPI" style="sketch=0;outlineConnect=0;fontColor=#000000;fillColor=#1ba1e2;strokeColor=#006EAF;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.gear;" vertex="1" parent="r3oZrauEnMC0hQL47zaA-4">
+        <mxCell id="kWsZ0_Ic3WUCXaGQPHfh-3" value="Service API" style="sketch=0;outlineConnect=0;fontColor=#000000;fillColor=#1ba1e2;strokeColor=#006EAF;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.gear;" vertex="1" parent="r3oZrauEnMC0hQL47zaA-4">
           <mxGeometry x="20" y="28.830000000000002" width="60.34" height="60.34" as="geometry" />
         </mxCell>
         <mxCell id="z9dLDMQUWV3vcMWy4RcC-1" value="Gateway" style="shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.cloud.application_gateway;fillColor=#0090FF;pointerEvents=1;" vertex="1" parent="1">
