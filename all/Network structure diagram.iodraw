@@ -332,7 +332,7 @@
           <mxGeometry x="601.99" y="281" width="67.71" height="65" as="geometry" />
         </mxCell>
         <mxCell id="dYz3_SyqwcF_yKmrMxZt-1" value="Application&lt;br&gt;Gateway" style="shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.cloud.application_gateway;fillColor=#0090FF;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="737" y="336" width="60" height="60" as="geometry" />
+          <mxGeometry x="890" y="249.59" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
