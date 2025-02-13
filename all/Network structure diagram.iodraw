@@ -202,7 +202,7 @@
           <mxGeometry x="740" y="110" width="89.24" height="55" as="geometry" />
         </mxCell>
         <mxCell id="r3oZrauEnMC0hQL47zaA-4" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1030" y="220" width="204" height="118" as="geometry" />
+          <mxGeometry x="1080" y="219.34" width="204" height="118" as="geometry" />
         </mxCell>
         <mxCell id="Un2Qe5mzFSPf5iVPuD7l-1" value="Pool de services" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#999999;strokeWidth=2;fillColor=none;arcSize=5;align=left;verticalAlign=top;" vertex="1" parent="r3oZrauEnMC0hQL47zaA-4">
           <mxGeometry width="204" height="118" as="geometry" />
@@ -214,13 +214,13 @@
           <mxGeometry x="120" y="30.439999999999998" width="65" height="57.12" as="geometry" />
         </mxCell>
         <mxCell id="z9dLDMQUWV3vcMWy4RcC-1" value="Gateway" style="shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.cloud.application_gateway;fillColor=#0090FF;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="790" y="249" width="60" height="60" as="geometry" />
+          <mxGeometry x="829.24" y="249" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="X98AOsk-hma0PaAQMf3n-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ok83aOpxO1BVnA7I-V8w-1" target="Un2Qe5mzFSPf5iVPuD7l-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ok83aOpxO1BVnA7I-V8w-1" value="Manager d&#39;API /&amp;nbsp;&lt;div&gt;Load Balancer&lt;/div&gt;" style="shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.cloud.api_management;fillColor=#00BEF2;pointerEvents=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="890" y="249" width="65" height="58.68" as="geometry" />
+          <mxGeometry x="950" y="249" width="65" height="58.68" as="geometry" />
         </mxCell>
         <mxCell id="90cwSDiYjZ5G8zYIp11Y-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.01;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="z9dLDMQUWV3vcMWy4RcC-1" target="Ok83aOpxO1BVnA7I-V8w-1">
           <mxGeometry relative="1" as="geometry" />
