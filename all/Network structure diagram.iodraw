@@ -192,6 +192,12 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="pxsNIDdB-xlCKbC2BpG2-11" value="" style="group;fontColor=#000000;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="431.46" y="183.5" width="150" height="254" as="geometry" />
+        </mxCell>
+        <mxCell id="pxsNIDdB-xlCKbC2BpG2-12" value="Pool de services" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#999999;strokeWidth=2;fillColor=none;arcSize=5;align=left;verticalAlign=top;" vertex="1" parent="pxsNIDdB-xlCKbC2BpG2-11">
+          <mxGeometry width="150" height="254" as="geometry" />
+        </mxCell>
         <mxCell id="FHUWCvOukImzGUcmIMb1-1" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=2;dashed=1;strokeWidth=2;strokeColor=#999999;fillColor=#EDF5FF;" vertex="1" parent="1">
           <mxGeometry x="280" y="150" width="350.5" height="450" as="geometry" />
         </mxCell>
@@ -282,12 +288,6 @@
         </mxCell>
         <mxCell id="pxsNIDdB-xlCKbC2BpG2-6" value="Application Web&amp;nbsp;" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=pod" vertex="1" parent="1">
           <mxGeometry x="470" y="320" width="72.92" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="pxsNIDdB-xlCKbC2BpG2-11" value="" style="group;fontColor=#000000;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="430" y="186" width="170" height="254" as="geometry" />
-        </mxCell>
-        <mxCell id="pxsNIDdB-xlCKbC2BpG2-12" value="Pool de services" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#999999;strokeWidth=2;fillColor=none;arcSize=5;align=left;verticalAlign=top;" vertex="1" parent="pxsNIDdB-xlCKbC2BpG2-11">
-          <mxGeometry width="170" height="254" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
