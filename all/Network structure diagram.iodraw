@@ -216,6 +216,9 @@
         <mxCell id="z9dLDMQUWV3vcMWy4RcC-1" value="Gateway" style="shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.cloud.application_gateway;fillColor=#0090FF;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="249" width="60" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="X98AOsk-hma0PaAQMf3n-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ok83aOpxO1BVnA7I-V8w-1" target="Un2Qe5mzFSPf5iVPuD7l-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Ok83aOpxO1BVnA7I-V8w-1" value="API Management" style="shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.cloud.api_management;fillColor=#00BEF2;pointerEvents=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="890" y="249" width="65" height="58.68" as="geometry" />
         </mxCell>
