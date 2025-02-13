@@ -225,7 +225,7 @@
           <mxGeometry x="510" y="450" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-2fhyvqvqM_CWiIEeE9e-3" value="Firewall" style="fontColor=#000000;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.firewall;" vertex="1" parent="1">
-          <mxGeometry x="820" y="254.09" width="50" height="48.5" as="geometry" />
+          <mxGeometry x="826" y="254.09" width="50" height="48.5" as="geometry" />
         </mxCell>
         <mxCell id="-2fhyvqvqM_CWiIEeE9e-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="-2fhyvqvqM_CWiIEeE9e-3" target="kWsZ0_Ic3WUCXaGQPHfh-1">
           <mxGeometry relative="1" as="geometry">
@@ -236,7 +236,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-2fhyvqvqM_CWiIEeE9e-7" value="ERP TeleV-Client" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.mainframe;" vertex="1" parent="1">
-          <mxGeometry x="990" y="440" width="80" height="100" as="geometry" />
+          <mxGeometry x="1030" y="440" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="-2fhyvqvqM_CWiIEeE9e-8" value="Serveur de données" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server_storage;" vertex="1" parent="1">
           <mxGeometry x="790" y="437.5" width="105" height="105" as="geometry" />
