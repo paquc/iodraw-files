@@ -181,8 +181,8 @@
             <mxPoint x="-29" y="-29" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LWwcVi9WErhLbBxBcNdP-1" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#DD344C;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.key_management_service_external_key_store;" vertex="1" parent="1">
-          <mxGeometry x="790" y="720" width="78" height="78" as="geometry" />
+        <mxCell id="LWwcVi9WErhLbBxBcNdP-1" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#00e1ff;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.key_management_service_external_key_store;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="690" width="78" height="78" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
